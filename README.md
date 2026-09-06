@@ -10,4 +10,7 @@ This repository contains my Python practice programs and beginner projects.
 - Input and output
 - Conditions
 - Loops
+- modules
 - Functions
+- file handling
+- oops basics
